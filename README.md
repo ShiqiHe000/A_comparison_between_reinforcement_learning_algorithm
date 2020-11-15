@@ -15,4 +15,4 @@ For instance, whether it is discrete or statistic. Last but not least, the conve
 of each algorithm. 
 A comprehensive decision could augment the efficiency of the program.
 
-Check out this report for more details:
+Check out this report for more details: <a href="https://github.com/ShiqiHe000/A_comparison_between_reinforcement_learning_algorithm/blob/master/pdf/Report_Shiqi_He.pdf" target="_blank">report</a>
